@@ -1,0 +1,10 @@
+ BULKA  KABA   ->    BULBA;
+   s      t 
+   cnt = ?;
+   cout<<" darina gay";
+ for(int i = 0 ;  i < s.size() - cnt; i++ ){
+     cout<<s[i];
+ }
+ for(int i = cnt ;  i < t.size() - cnt; i++ ){
+     cout<<t[i];
+ }

@@ -1,0 +1,14 @@
+2
+6
+Insert 1
+Insert 2
+Insert 3
+Print
+Delete 2
+Print
+5
+Delete 3
+Insert 1
+Insert 2
+Delete 2
+Print

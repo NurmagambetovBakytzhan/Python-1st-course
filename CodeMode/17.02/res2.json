@@ -1,0 +1,17 @@
+{
+    "model": "LENOVO",
+    "cpu": "16gb",
+    "processor": "Cheese",
+    "isNumpad": true,
+    "owners": [
+        "He",
+        "dad",
+        "mom",
+        "Braat"
+    ],
+    "prod": [
+        "Milk",
+        "Egg",
+        "Bread"
+    ]
+}

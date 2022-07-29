@@ -1,0 +1,5 @@
+print('soon', 'I', 'will','programming', 'python!')
+print()
+print("There is 'odinarnyi' kawichki")
+print()
+print('There are "twin" kawichki')
